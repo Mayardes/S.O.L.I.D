@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SingleResponsabilityPrinciple.ImplementedPrincipleExemple.Order">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAQAACAAAAAAAAJAEAAEAAAAAA=</HashCode>
+      <FileName>ImplementedPrincipleExemple\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SingleResponsabilityPrinciple.ImplementedPrincipleExemple.RegisterLog">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>ImplementedPrincipleExemple\RegisterLog.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SingleResponsabilityPrinciple.ImplementedPrincipleExemple.SendEmail">
+    <Position X="7.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEAAAAAAAAAAAAAEAEBAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ImplementedPrincipleExemple\SendEmail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="SingleResponsabilityPrinciple.ImplementedPrincipleExemple.ILogger">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>ImplementedPrincipleExemple\ILogger.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
